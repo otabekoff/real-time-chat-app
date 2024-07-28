@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo 'Hello World!'",
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "mkdir -p dist && cp -r public/* dist/"
   },
   "repository": {
     "type": "git",

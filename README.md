@@ -4,6 +4,8 @@ Chat Application to enable real-time message exchange between clients.
 
 This is a simple real-time chat application built using HTML, CSS, JavaScript, Node.js, and Socket.io. The application allows users to send and receive messages in real-time.
 
+![image](https://github.com/user-attachments/assets/cb9abfc5-698a-4d14-aec1-a8628f38ee35)
+
 ## Features
 
 - Real-time messaging

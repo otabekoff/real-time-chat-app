@@ -1,0 +1,31 @@
+{
+  "name": "realtime-chat-app",
+  "version": "0.0.1",
+  "description": "A chat application enables real-time message exchange between clients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otabekoff/realtime-chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "realtime",
+    "app",
+    "socket.io"
+  ],
+  "author": "Otabek Sadiridinov <sadiridinovotabek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otabekoff/realtime-chat-app/issues"
+  },
+  "homepage": "https://github.com/otabekoff/realtime-chat-app#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}

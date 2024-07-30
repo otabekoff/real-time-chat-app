@@ -13,6 +13,16 @@ This is a simple real-time chat application built using HTML, CSS, JavaScript, N
 - Displays the total number of connected clients
 - Timestamps for messages using `moment.js`
 
+## TO-DOs
+
+- [ ] Remove static messages and 'someone is typing' text.
+- [ ] Implement creating new chats, adding / joining
+- [ ] Adding, editing profile information, deleting account
+- [ ] Not only sending messages but media & files
+- [ ] Sending audio and video (back & front cam) videos
+- [ ] Live Streaming, Live calls (video & faceless)
+- [ ] New design and mobile responsiveness
+
 ## Technologies Used
 
 - HTML
